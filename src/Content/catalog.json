@@ -1,0 +1,197 @@
+{
+  "brand": "Demo Wear",
+  "contactMode": "whatsapp",
+  "phone": "96171245244",
+  "displayPhone": "+961 71 245 244",
+  "instagram": "https://www.instagram.com/demo_wear/",
+  "hours": "Confirm opening hours with the shop",
+  "hero": "/images/collection-02.jpg",
+  "story": "/images/collection-11.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg"
+  ],
+  "products": [
+    {
+      "id": "soft-layered-look",
+      "name": "Soft Layered Look",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "Pink and taupe knit tops styled with relaxed skirts or trousers in the shop’s public Reel cover. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg"
+      ],
+      "source": "https://www.instagram.com/demo_wear/reel/Df15VSRNn0d/"
+    },
+    {
+      "id": "grey-tailored-set",
+      "name": "Grey Tailored Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A grey belted jacket with a pleated lower detail and matching straight trousers. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/demo_wear/reel/DfzoLWVJAag/"
+    },
+    {
+      "id": "red-half-zip-knit",
+      "name": "Red Half-Zip Knit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A red long-sleeved half-zip knit top styled over a white collar. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/demo_wear/reel/DfzMQUbpryq/"
+    },
+    {
+      "id": "leopard-outer-layer",
+      "name": "Leopard Outer Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A leopard-print short outer layer with a wide brown plush-look collar and cuffs. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/demo_wear/reel/Dfu3lQWtgYd/"
+    },
+    {
+      "id": "brown-belted-coat",
+      "name": "Brown Belted Coat",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown belted coat with plush-look collar and cuffs, photographed over a light outfit. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/demo_wear/reel/DfuEhGHtC6M/"
+    },
+    {
+      "id": "relaxed-hoodie-look",
+      "name": "Relaxed Hoodie Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Black and light-coloured long hooded tops styled with relaxed trousers. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/demo_wear/reel/Dfrfd1tNugn/"
+    },
+    {
+      "id": "checked-scarf-look",
+      "name": "Checked Scarf Look",
+      "collection": "Scarves",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light plaid scarf with red and grey lines, shown draped as a headscarf. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/demo_wear/reel/DfpdbhdtiQc/"
+    },
+    {
+      "id": "grey-embellished-tunic",
+      "name": "Grey Embellished Tunic",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A grey longline top with a central decorative motif shown with relaxed trousers. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/demo_wear/reel/Dfo6AMNNn5r/"
+    },
+    {
+      "id": "relaxed-knit-look",
+      "name": "Relaxed Knit Look",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A taupe relaxed knit top styled with patterned trousers. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/demo_wear/reel/DfnKn6gt6Re/"
+    },
+    {
+      "id": "dark-layered-look",
+      "name": "Dark Layered Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark knit top with a contrasting white shirt hem and matching relaxed trousers. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/demo_wear/reel/Dfm1PnAt3uz/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

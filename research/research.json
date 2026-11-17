@@ -1,0 +1,548 @@
+{
+  "brand": "Demo Wear",
+  "handle": "demo_wear",
+  "instagram": "https://www.instagram.com/demo_wear/",
+  "contactMode": "whatsapp",
+  "phone": "96171245244",
+  "displayPhone": "+961 71 245 244",
+  "hours": "Confirm opening hours with the shop",
+  "followersObserved": null,
+  "followersDisplay": "307K",
+  "latestVisiblePost": "2026-11-17",
+  "researchDate": "2026-11-17",
+  "profileBio": "📍Bir el abd 81/618443 - 03/015848\n📍nweiri 71/245244\n📍khaldah 78/896419\nMen’s page @demo_wearman",
+  "bioLinks": [
+    "https://maps.google.com/?q=33.855202%2C35.512234",
+    "https://maps.google.com/?q=33.881119%2C35.504265",
+    "https://wa.me/message/RZUANTKGVDXMG1",
+    "https://maps.google.com/?q=33.797729%2C35.485092",
+    "https://wa.me/message/J3FRV2GYG5NZK1"
+  ],
+  "branches": [],
+  "about": "Demo Wear shares modest fashion, coordinated looks, knitwear and seasonal outer layers. The public profile lists Bir el Abed, Nweiri and Khaldah locations, with branch maps and WhatsApp links. Contact Nweiri to confirm your chosen look and delivery or visiting details.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-03.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-02.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-01.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-02.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-03.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-04.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-05.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-06.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-08.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-09.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-10.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-11.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "soft-layered-look",
+      "name": "Soft Layered Look",
+      "category": "Knitwear",
+      "description": "Pink and taupe knit tops styled with relaxed skirts or trousers in the shop’s public Reel cover. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Df15VSRNn0d/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "grey-tailored-set",
+      "name": "Grey Tailored Set",
+      "category": "Coordinated looks",
+      "description": "A grey belted jacket with a pleated lower detail and matching straight trousers. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfzoLWVJAag/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "red-half-zip-knit",
+      "name": "Red Half-Zip Knit",
+      "category": "Knitwear",
+      "description": "A red long-sleeved half-zip knit top styled over a white collar. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfzMQUbpryq/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "leopard-outer-layer",
+      "name": "Leopard Outer Layer",
+      "category": "Outer layers",
+      "description": "A leopard-print short outer layer with a wide brown plush-look collar and cuffs. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfu3lQWtgYd/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "brown-belted-coat",
+      "name": "Brown Belted Coat",
+      "category": "Outer layers",
+      "description": "A brown belted coat with plush-look collar and cuffs, photographed over a light outfit. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfuEhGHtC6M/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "relaxed-hoodie-look",
+      "name": "Relaxed Hoodie Look",
+      "category": "Coordinated looks",
+      "description": "Black and light-coloured long hooded tops styled with relaxed trousers. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfrfd1tNugn/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "checked-scarf-look",
+      "name": "Checked Scarf Look",
+      "category": "Scarves",
+      "description": "A light plaid scarf with red and grey lines, shown draped as a headscarf. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfpdbhdtiQc/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "grey-embellished-tunic",
+      "name": "Grey Embellished Tunic",
+      "category": "Coordinated looks",
+      "description": "A grey longline top with a central decorative motif shown with relaxed trousers. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfo6AMNNn5r/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "relaxed-knit-look",
+      "name": "Relaxed Knit Look",
+      "category": "Knitwear",
+      "description": "A taupe relaxed knit top styled with patterned trousers. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfnKn6gt6Re/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "dark-layered-look",
+      "name": "Dark Layered Look",
+      "category": "Coordinated looks",
+      "description": "A dark knit top with a contrasting white shirt hem and matching relaxed trousers. Confirm the exact included garments, current price, measurements, colours and availability with Demo Wear. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfm1PnAt3uz/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "index": 1,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907465247_18134931220836783_5580265258326527339_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kdsfT3Ii0jMQ7kNvwHQSB9A&_nc_oc=AdpKmAUsG1DAV1o1hUanXJwsh1AzN_bZ5mwAqruxGib9N-TfG1KxWffk8pRtM5Kct_0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRv0MpjzBdSXfcSh41b0_IdqeOvyZEtZV84PUrMIec1EA&oe=6B024F41",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Df15VSRNn0d/",
+      "width": 360,
+      "height": 640,
+      "sha256": "4b252b10985074b8dc6814bd326a360f60b0635f94527d86f12be7084cddd639",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 2,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/905865980_18134827165836783_564212867071900175_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LHhyuQSpPogQ7kNvwFMydiO&_nc_oc=Adpo1d46Ags1-iKXHss2LpQZDXbujaqsbefGIfLMZNMX1K2isxVaNdFgZ06T5Ci6IfY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTeRQkocGrdvaSmZHeOYAP-_hIOS24vMBPeUXbD3VHjWQ&oe=6B026C3E",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Df0DsvNJVgq/",
+      "width": 360,
+      "height": 640,
+      "sha256": "868ea71314eb7cc78f4e275396728fc10b2caf3143ba812f5dd577d32854e4c6",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 3,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t15.5256-10/894771044_1864610657878105_5776089719206247345_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=y3AjJDMSXgMQ7kNvwFPx2Y_&_nc_oc=AdpHZKwTM4a-US68Qqyoo5-Eeyhn8hfJPDRndsV7OieCC7P-HXb2FA6iwL_WF82g2oM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSgMTd_LruknnL5slzXiD9_xgWR1Jme5Cp86vfxBZ1GzA&oe=6B026955",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfzoLWVJAag/",
+      "width": 361,
+      "height": 640,
+      "sha256": "f5d6ddb116d593b91eeb51d7998e2694d6bd05b9b74f93653a3a7e9ef5518238",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 4,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/904555678_18134807671836783_1707212346571684057_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Lf-_JPf8O-wQ7kNvwEaFn1e&_nc_oc=AdqY4ZVI7y_m3b-EN6ihqrU-CESd-X2KXE4b9AVf1RWUMluYmO5hu28hD0QO3ughpyU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQBH8pv1pYjXB-vxUa26_NHS6eQrMDzVEamrx57L27hUA&oe=6B025BFE",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfzMQUbpryq/",
+      "width": 360,
+      "height": 640,
+      "sha256": "8c278048fdbcaa10ea17da5dae0eb7c62451322cec71f67b28a7c1ea2645e5bb",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 5,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907302310_18134608750836783_7110973817006110444_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=c-b0H6h_PykQ7kNvwFf6qUL&_nc_oc=Ado7sFMM2xTmIiZXEpKHiqPhrkiojD1QfNN7f76geSpuPRsOj2XYHba-FvmAZ9kCat4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTMO6U5zWWv8A_vZQYtkhhZvHPFnW1AgoQqmAzd_10NSQ&oe=6B025535",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfu3lQWtgYd/",
+      "width": 360,
+      "height": 640,
+      "sha256": "cbf4af9d8fd41846faf6024625869d3449f0d95c92db6bcda5741b1afe6dda52",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 6,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900852745_18134574556836783_5409779529495486993_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KY_QIXCdEJsQ7kNvwGJ4tz_&_nc_oc=Adrx_RQJ88_Ttn5t9khAR9nSuwNiVbwGFWf0to6-PTQiJq0Z-lPPaHIQ5lHVriB9H24&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQlcEESJloWLuc8NFJ3GfokRaCXCf1qqBAnRsvMpMgIiA&oe=6B027B87",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfuEhGHtC6M/",
+      "width": 360,
+      "height": 640,
+      "sha256": "c6f9f4d67add0600e5f39869e301b970f96b72bc5ced96df7525e738c7a8f271",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 7,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/899667815_18134500372836783_3244603508951819986_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=BmqrKPBhG4oQ7kNvwGbUQIU&_nc_oc=AdoohXbj1m3Ne_IUIqmT1OrRrSWkz-oXGHB_LwQnqj-j4pzzDUFJa24ovRUeqi5CLnw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSwB01Cs4wmzmHBUWfC0O2i_33fY3Y1azmCKYiPEgv7Bg&oe=6B025785",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfsVSxvpPpp/",
+      "width": 360,
+      "height": 640,
+      "sha256": "84c65d599ce2afbc39f386b62311679414fdd983b94e53898032b8de65d18216",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": false,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": true,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction.",
+      "exclusionReason": "Visible baked-in historical price text on the native Reel cover."
+    },
+    {
+      "index": 8,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900731268_18134465350836783_4843577476505564639_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=o6A_h-lxMmUQ7kNvwHEbUS2&_nc_oc=AdrXlRcuaEJ3wQXkLYbr3x8vnMnxoBV2EBO_XLMawp5Z9sFC1wYPocSyJ80CyYPuYj8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSqp7k7v27K7gmprpoWYMxZNiUVS30PQ39KY0pVBD58Tg&oe=6B027B86",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfrfd1tNugn/",
+      "width": 360,
+      "height": 640,
+      "sha256": "75cbe5192d05ef793af46b9543d6bf8b20664051763f8f8735123ffce2e653e4",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 9,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/896896908_18134384617836783_8801898078857619285_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=V8BlycRWj1kQ7kNvwEDDyoJ&_nc_oc=Adogm8D0YB27GjZYgNLEZzeCiosKx2hT-uWqhg2toeIvMRtetZlTLRFAWLxwrXxSsWs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQT8bK-Vy3NK7YAo4DqhPxEMnun3aHPGijJqV2KLnFAZMQ&oe=6B027432",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfpdbhdtiQc/",
+      "width": 360,
+      "height": 640,
+      "sha256": "be206d5039fa38213add197cb00ac5a0b4a7668e74751fbec913cf77764ef5b4",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 10,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900731269_18134354701836783_4472228204319722147_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2eORGIyum70Q7kNvwHLQhSU&_nc_oc=Adrc-Ns8m54TnMqUn2hvD4tl1gs8rvgcsRWFdVc1kd4T9pYPgsDZMJOoWrTHv8yvCP4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQ1lYyTNi7_su9zOVFmxhXbrvkfaS1aiJpq8xHBuOa3Sg&oe=6B025380",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfo6AMNNn5r/",
+      "width": 360,
+      "height": 640,
+      "sha256": "54c44037b3e8b5b68f5283616a9dd175440be379e11d7a2c672fb1677da06def",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 11,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/904069546_18134292364836783_2789863335901615292_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2PSCEwyXVjoQ7kNvwEgnh6z&_nc_oc=Adqx8a3MtHco_K6JiGnZy9ANt5JG0-or1wtzUoVg_kRW1LtLXgb9vAW_TDNQU09K4gQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ_qGnYzOSK2gt9l7W6uqBdWhyKgj_EBXEYyXyDlMEB2w&oe=6B028098",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfnKn6gt6Re/",
+      "width": 360,
+      "height": 640,
+      "sha256": "d2af62ded094d950f42e12e6a9b68c35fe059b215c813fe3990dd10406d609b4",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 12,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/897213913_18134277676836783_971067175668458126_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=GnBEuxkVOuwQ7kNvwEx6wbj&_nc_oc=Ado1cd762z6cTg6-2LPxux-ll80bKDSuZ_qRyPTp069-egHSy7KrwnIgOwR0aVmAUUE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ6JT6qwPgwhS_FO1Jn4S0w9J9MoZ5PtP2pkMI2ybUfew&oe=6B02548F",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfm1PnAt3uz/",
+      "width": 360,
+      "height": 640,
+      "sha256": "ebe38f2ab589380af57ea9475d41fc0583712870881218751a8b0e46e542fcb9",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    }
+  ],
+  "imageProvenance": [
+    {
+      "index": 1,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907465247_18134931220836783_5580265258326527339_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kdsfT3Ii0jMQ7kNvwHQSB9A&_nc_oc=AdpKmAUsG1DAV1o1hUanXJwsh1AzN_bZ5mwAqruxGib9N-TfG1KxWffk8pRtM5Kct_0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRv0MpjzBdSXfcSh41b0_IdqeOvyZEtZV84PUrMIec1EA&oe=6B024F41",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Df15VSRNn0d/",
+      "width": 360,
+      "height": 640,
+      "sha256": "4b252b10985074b8dc6814bd326a360f60b0635f94527d86f12be7084cddd639",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 2,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/905865980_18134827165836783_564212867071900175_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LHhyuQSpPogQ7kNvwFMydiO&_nc_oc=Adpo1d46Ags1-iKXHss2LpQZDXbujaqsbefGIfLMZNMX1K2isxVaNdFgZ06T5Ci6IfY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTeRQkocGrdvaSmZHeOYAP-_hIOS24vMBPeUXbD3VHjWQ&oe=6B026C3E",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Df0DsvNJVgq/",
+      "width": 360,
+      "height": 640,
+      "sha256": "868ea71314eb7cc78f4e275396728fc10b2caf3143ba812f5dd577d32854e4c6",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 3,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t15.5256-10/894771044_1864610657878105_5776089719206247345_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=y3AjJDMSXgMQ7kNvwFPx2Y_&_nc_oc=AdpHZKwTM4a-US68Qqyoo5-Eeyhn8hfJPDRndsV7OieCC7P-HXb2FA6iwL_WF82g2oM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSgMTd_LruknnL5slzXiD9_xgWR1Jme5Cp86vfxBZ1GzA&oe=6B026955",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfzoLWVJAag/",
+      "width": 361,
+      "height": 640,
+      "sha256": "f5d6ddb116d593b91eeb51d7998e2694d6bd05b9b74f93653a3a7e9ef5518238",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 4,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/904555678_18134807671836783_1707212346571684057_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Lf-_JPf8O-wQ7kNvwEaFn1e&_nc_oc=AdqY4ZVI7y_m3b-EN6ihqrU-CESd-X2KXE4b9AVf1RWUMluYmO5hu28hD0QO3ughpyU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQBH8pv1pYjXB-vxUa26_NHS6eQrMDzVEamrx57L27hUA&oe=6B025BFE",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfzMQUbpryq/",
+      "width": 360,
+      "height": 640,
+      "sha256": "8c278048fdbcaa10ea17da5dae0eb7c62451322cec71f67b28a7c1ea2645e5bb",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 5,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907302310_18134608750836783_7110973817006110444_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=c-b0H6h_PykQ7kNvwFf6qUL&_nc_oc=Ado7sFMM2xTmIiZXEpKHiqPhrkiojD1QfNN7f76geSpuPRsOj2XYHba-FvmAZ9kCat4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTMO6U5zWWv8A_vZQYtkhhZvHPFnW1AgoQqmAzd_10NSQ&oe=6B025535",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfu3lQWtgYd/",
+      "width": 360,
+      "height": 640,
+      "sha256": "cbf4af9d8fd41846faf6024625869d3449f0d95c92db6bcda5741b1afe6dda52",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 6,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900852745_18134574556836783_5409779529495486993_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KY_QIXCdEJsQ7kNvwGJ4tz_&_nc_oc=Adrx_RQJ88_Ttn5t9khAR9nSuwNiVbwGFWf0to6-PTQiJq0Z-lPPaHIQ5lHVriB9H24&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQlcEESJloWLuc8NFJ3GfokRaCXCf1qqBAnRsvMpMgIiA&oe=6B027B87",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfuEhGHtC6M/",
+      "width": 360,
+      "height": 640,
+      "sha256": "c6f9f4d67add0600e5f39869e301b970f96b72bc5ced96df7525e738c7a8f271",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 8,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900731268_18134465350836783_4843577476505564639_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=o6A_h-lxMmUQ7kNvwHEbUS2&_nc_oc=AdrXlRcuaEJ3wQXkLYbr3x8vnMnxoBV2EBO_XLMawp5Z9sFC1wYPocSyJ80CyYPuYj8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSqp7k7v27K7gmprpoWYMxZNiUVS30PQ39KY0pVBD58Tg&oe=6B027B86",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfrfd1tNugn/",
+      "width": 360,
+      "height": 640,
+      "sha256": "75cbe5192d05ef793af46b9543d6bf8b20664051763f8f8735123ffce2e653e4",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 9,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/896896908_18134384617836783_8801898078857619285_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=V8BlycRWj1kQ7kNvwEDDyoJ&_nc_oc=Adogm8D0YB27GjZYgNLEZzeCiosKx2hT-uWqhg2toeIvMRtetZlTLRFAWLxwrXxSsWs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQT8bK-Vy3NK7YAo4DqhPxEMnun3aHPGijJqV2KLnFAZMQ&oe=6B027432",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfpdbhdtiQc/",
+      "width": 360,
+      "height": 640,
+      "sha256": "be206d5039fa38213add197cb00ac5a0b4a7668e74751fbec913cf77764ef5b4",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 10,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900731269_18134354701836783_4472228204319722147_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2eORGIyum70Q7kNvwHLQhSU&_nc_oc=Adrc-Ns8m54TnMqUn2hvD4tl1gs8rvgcsRWFdVc1kd4T9pYPgsDZMJOoWrTHv8yvCP4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQ1lYyTNi7_su9zOVFmxhXbrvkfaS1aiJpq8xHBuOa3Sg&oe=6B025380",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfo6AMNNn5r/",
+      "width": 360,
+      "height": 640,
+      "sha256": "54c44037b3e8b5b68f5283616a9dd175440be379e11d7a2c672fb1677da06def",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 11,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/904069546_18134292364836783_2789863335901615292_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2PSCEwyXVjoQ7kNvwEgnh6z&_nc_oc=Adqx8a3MtHco_K6JiGnZy9ANt5JG0-or1wtzUoVg_kRW1LtLXgb9vAW_TDNQU09K4gQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ_qGnYzOSK2gt9l7W6uqBdWhyKgj_EBXEYyXyDlMEB2w&oe=6B028098",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/DfnKn6gt6Re/",
+      "width": 360,
+      "height": 640,
+      "sha256": "d2af62ded094d950f42e12e6a9b68c35fe059b215c813fe3990dd10406d609b4",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 12,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/897213913_18134277676836783_971067175668458126_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=GnBEuxkVOuwQ7kNvwEx6wbj&_nc_oc=Ado1cd762z6cTg6-2LPxux-ll80bKDSuZ_qRyPTp069-egHSy7KrwnIgOwR0aVmAUUE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-9UK4ONIpjYp2gBK3t5hbA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ6JT6qwPgwhS_FO1Jn4S0w9J9MoZ5PtP2pkMI2ybUfew&oe=6B02548F",
+      "sourcePost": "https://www.instagram.com/demo_wear/reel/Dfm1PnAt3uz/",
+      "width": 360,
+      "height": 640,
+      "sha256": "ebe38f2ab589380af57ea9475d41fc0583712870881218751a8b0e46e542fcb9",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    }
+  ],
+  "activityEvidence": "Own public Reel dated17 November2026 and several dated11–16 November2026 visible in public profile grid.",
+  "contactEvidence": "Expanded profile link labelled Whatsapp nweiry opens official WhatsApp Share page headed Demo Wear, with rendered Open app href phone=96171245244. This matches the profile Nweiri phone71/245244. No message sent.",
+  "websiteCheck": {
+    "result": "No matching official website found in expanded five public profile links and bounded handle/name/phone searches; an unlisted website cannot be ruled out.",
+    "queries": [
+      "\"demo_wear\" website shop",
+      "\"Demo Wear\" Lebanon clothing website",
+      "\"71245244\" \"demo\""
+    ],
+    "checkedDate": "2026-11-17",
+    "sources": [
+      "https://www.instagram.com/demo_wear/",
+      "https://wa.me/message/RZUANTKGVDXMG1",
+      "https://www.cybo.com/LB/haret-hreik/wholesale-of-clothing-and-textiles/"
+    ],
+    "ambiguity": "demowear.online is an unrelated Russian-language printed-T-shirt shop tied to demo.wear, not the Lebanese modest fashion profile demo_wear. Socialveins location/emails are unreliable inferred data and were not used."
+  },
+  "imageNotes": "11 unique native public Reel-cover stills; no video frames extracted. Cover7 with baked-in29$ price excluded. Source dimensions360/361x640; display should preserve native aspect and avoid giant full-bleed crops. No AI labels were observed in the reviewed Demo Wear profile or latest Reel; underlying ownership/authenticity not independently established."
+}

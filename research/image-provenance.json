@@ -1,0 +1,145 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-01.jpg",
+    "sha256": "4b252b10985074b8dc6814bd326a360f60b0635f94527d86f12be7084cddd639",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-03.jpg",
+    "sha256": "f5d6ddb116d593b91eeb51d7998e2694d6bd05b9b74f93653a3a7e9ef5518238",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-04.jpg",
+    "sha256": "8c278048fdbcaa10ea17da5dae0eb7c62451322cec71f67b28a7c1ea2645e5bb",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-05.jpg",
+    "sha256": "cbf4af9d8fd41846faf6024625869d3449f0d95c92db6bcda5741b1afe6dda52",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-06.jpg",
+    "sha256": "c6f9f4d67add0600e5f39869e301b970f96b72bc5ced96df7525e738c7a8f271",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-08.jpg",
+    "sha256": "75cbe5192d05ef793af46b9543d6bf8b20664051763f8f8735123ffce2e653e4",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-09.jpg",
+    "sha256": "be206d5039fa38213add197cb00ac5a0b4a7668e74751fbec913cf77764ef5b4",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-10.jpg",
+    "sha256": "54c44037b3e8b5b68f5283616a9dd175440be379e11d7a2c672fb1677da06def",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-11.jpg",
+    "sha256": "d2af62ded094d950f42e12e6a9b68c35fe059b215c813fe3990dd10406d609b4",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-12.jpg",
+    "sha256": "ebe38f2ab589380af57ea9475d41fc0583712870881218751a8b0e46e542fcb9",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-11.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\demo-wear\\assets\\demo-02.jpg",
+    "sha256": "868ea71314eb7cc78f4e275396728fc10b2caf3143ba812f5dd577d32854e4c6",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  }
+]
